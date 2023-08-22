@@ -78,6 +78,9 @@ Here I will list the packages I use by category.
 - [Java](https://www.java.com/): A programming language. I use it to develop my servers. I use the Oracle SDK 20.
 - [C++ (G++)](https://www.cplusplus.com/): A programming language. I use it to develop my servers. I prefer G++.
 - [Javascript](https://www.javascript.com/): A programming language. I use it to develop on front-end solutions.
+- [Dart](https://dart.dev/): A programming language. I use it to develop my mobile applications.
+- [Kotlin](https://kotlinlang.org/): A programming language. I use it to develop my mobile applications.
+- [Go](https://golang.org/): A programming language. I use it to develop my servers.
 
 ### Programming languages tools
 
@@ -85,6 +88,30 @@ Here I will list the packages I use by category.
 - [Gradle](https://gradle.org/): A build automation tool. I use it to build my java applications.
 - [Node.js](https://nodejs.org/en/): A javascript runtime. I use it to run my javascript applications.
 - [npm](https://www.npmjs.com/): A package manager for javascript. I use it to install and remove javascript packages.
+
+### Programming languages frameworks
+
+- [Spring](https://spring.io/): A java framework. I use it to develop my servers.
+- [Hibernate](https://hibernate.org/): A java framework. I use it to develop my servers.
+- [JPA](https://www.oracle.com/java/technologies/persistence-jsp.html): A java framework. I use it to develop my servers.
+- [Django](https://www.djangoproject.com/): A python framework. I use it to develop my servers.
+- [Angular](https://angular.io/): A javascript framework. I use it to develop my front-end solutions.
+- [Flutter](https://flutter.dev/): A framework for cross-platform development. I use it to develop my mobile applications.
+
+### Programming languages libraries
+
+- [Pandas](https://pandas.pydata.org/): A python library. I use it to manipulate my data.
+- [Numpy](https://numpy.org/): A python library. I use it to manipulate my data.
+- [Matplotlib](https://matplotlib.org/): A python library. I use it to plot my data.
+- [Pillow](https://pillow.readthedocs.io/en/stable/): A python library. I use it to manipulate my images.
+- [Scikit-learn](https://scikit-learn.org/stable/): A python library. I use it to manipulate my data.
+- [Tensorflow](https://www.tensorflow.org/): A python library. I use it to manipulate my data.
+- [Keras](https://keras.io/): A python library. I use it to manipulate my data.
+- [OpenCV](https://opencv.org/): A python library. I use it to manipulate my images.
+- [P5.js](https://p5js.org/): A javascript library. I use it to manipulate my data.
+- [React](https://reactjs.org/): A javascript library. I use it to manipulate my data.
+- [React Native](https://reactnative.dev/): A javascript library. I use it to manipulate my data.
+- [JQuery](https://jquery.com/): A javascript library. I use it to manipulate my data.
 
 ### Databases and database managers
 
@@ -105,3 +132,7 @@ Here I will list the packages I use by category.
 ### Servers
 
 - [Wildfly](https://www.wildfly.org/): A server. I use it to run my java applications. I'm learning to using jakarta ee.
+
+### Servers tools
+
+- [Postman](https://www.postman.com/): A API client. I use it to test my APIs.
