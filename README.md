@@ -81,6 +81,8 @@ Here I will list the packages I use by category.
 - [Dart](https://dart.dev/): A programming language. I use it to develop my mobile applications.
 - [Kotlin](https://kotlinlang.org/): A programming language. I use it to develop my mobile applications.
 - [Go](https://golang.org/): A programming language. I use it to develop my servers.
+- [Rust](https://www.rust-lang.org/): A programming language. I use it to develop my servers.
+- [OpenCL](https://www.khronos.org/opencl/): A programming language. I use it to develop graphics applications.
 
 ### Programming languages tools
 
@@ -107,7 +109,7 @@ Here I will list the packages I use by category.
 - [Scikit-learn](https://scikit-learn.org/stable/): A python library. I use it to manipulate my data.
 - [Tensorflow](https://www.tensorflow.org/): A python library. I use it to manipulate my data.
 - [Keras](https://keras.io/): A python library. I use it to manipulate my data.
-- [OpenCV](https://opencv.org/): A python library. I use it to manipulate my images.
+- [OpenCV](https://opencv.org/): A C++ library. I use it to manipulate my images.
 - [P5.js](https://p5js.org/): A javascript library. I use it to manipulate my data.
 - [React](https://reactjs.org/): A javascript library. I use it to manipulate my data.
 - [React Native](https://reactnative.dev/): A javascript library. I use it to manipulate my data.
